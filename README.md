@@ -31,33 +31,33 @@ The solution is designed with modular components that align with **Insurity's va
 ```mermaid
 flowchart TD
 
-    subgraph Telematics Device / App
+    subgraph Telematics_Device_App [Telematics Device / App]
         GPS[GPS Data]
         ACC[Accelerometer]
         BIO[Biometrics Sensors]
     end
 
-    subgraph External Data
+    subgraph External_Data [External Data]
         TRAF[Traffic APIs]
         WEATHER[Weather APIs]
         CRIME[Crime Index]
         ACCR[Accident Density]
     end
 
-    subgraph Data Pipeline
+    subgraph Data_Pipeline [Data Pipeline]
         INGEST[Streaming Ingest Service]
         PROC[Stream Processor]
         STORE[(Secure Data Lake)]
     end
 
-    subgraph ML Models
+    subgraph ML_Models [ML Models]
         RF[Random Forest]
         LR[Logistic Regression]
         XGB[XGBoost]
         NN[Neural Network]
     end
 
-    subgraph AI Models
+    subgraph AI_Models [AI Models]
         LSTM[LSTM]
         GRU[GRU]
         CNN[CNN]
@@ -65,12 +65,12 @@ flowchart TD
         TRF[Transformer]
     end
 
-    subgraph Risk Scoring
+    subgraph Risk_Scoring [Risk Scoring]
         FEATURES[Driver Features + Context]
         SCORE[Predicted Risk Probability]
     end
 
-    subgraph Pricing Engine
+    subgraph Pricing_Engine [Pricing Engine]
         BASE[Base Premium]
         DYN[Dynamic Adjustment]
         HIST[Claims + Vehicle History Adjustments]
@@ -104,12 +104,12 @@ flowchart TD
     INGEST --> PROC
     PROC --> STORE
     STORE --> FEATURES
-    FEATURES --> ML Models
-    FEATURES --> AI Models
-    ML Models --> SCORE
-    AI Models --> SCORE
-    SCORE --> Pricing Engine
-    Pricing Engine --> Dashboard
+    FEATURES --> ML_Models
+    FEATURES --> AI_Models
+    ML_Models --> SCORE
+    AI_Models --> SCORE
+    SCORE --> Pricing_Engine
+    Pricing_Engine --> Dashboard_Streamlit
 ```
 
 ---
