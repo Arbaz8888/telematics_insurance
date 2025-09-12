@@ -78,7 +78,7 @@ flowchart TD
         AI_PREM[AI-Driven Premiums]
     end
 
-    subgraph Dashboard (Streamlit)
+    subgraph Dashboard_Streamlit [Dashboard: Streamlit]
         T1[Driver Overview]
         T2[Trips Explorer]
         T3[Live Risk Monitor]
