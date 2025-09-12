@@ -1,0 +1,16 @@
+vehicle_id,make,model,fuel_type,vehicle_type,vehicle_age_years,vin_number
+2e35c886-5f23-41b5-9c39-09b2d269eaaf,Ford,F-150,Gas,Truck,8,b9m1I2l1B8t2o7h9M
+60d0180e-41a3-4d0d-acbd-2782802c7249,Toyota,Corolla,Gas,Sedan,14,V3b6m4v4O9l2x6G3D
+78d4a862-f721-4e1c-9089-d5edf4ab3673,BMW,X5,Diesel,SUV,3,I3q2u4X4P8t1I5Y1y
+15d0316b-2f95-4773-bc14-bf30bc4d4d14,Honda,Civic,Gas,Sedan,2,l2R3v0b2U2B5N0M8N
+96cfd49f-cd1f-41bf-b71d-895bc999216e,BMW,X5,Diesel,SUV,9,H3M2g2y0Q1T6I8D0w
+0a25ae75-fea2-49cd-969d-3ce3c39df156,BMW,X5,Diesel,SUV,11,G9g2r6l2s5E2c8b5L
+51682774-06d9-45ca-8fc7-a0454993f480,BMW,X5,Diesel,SUV,6,U8O8e3l6v7O5B0E3Y
+58806c2a-ef59-4884-9386-fed01c72fe46,Toyota,Corolla,Gas,Sedan,1,v0h8x5S4G0T4S5m7g
+f430e23c-ede1-444f-a68e-80248182ce9e,Tesla,Model 3,Electric,EV Sedan,9,N3M2R9y1E8F8q8G0b
+d38e2c99-19f7-4d48-bd87-e7dad9fd7301,Toyota,Corolla,Gas,Sedan,7,I9c8P6q2n6d1M2K1C
+e9909cbe-401e-462e-8c2f-57c81f672cae,Toyota,Corolla,Gas,Sedan,12,n9H8w8k2e4G2O2M2c
+c8747a39-13c1-4170-97f0-10d45d583341,Ford,F-150,Gas,Truck,14,T2G7A5Q0e7k8A6G9D
+8bb759f5-2782-4b1e-9479-edebcff26e48,Ford,F-150,Gas,Truck,5,f2H1U6v7P4B9D1A7i
+9884d7a2-878c-4b9e-904a-05cd49332d64,Ford,F-150,Gas,Truck,11,q2S7F2I4J0i3n7E6d
+15e795a2-1774-4614-a8fc-6be0757daee0,Tesla,Model 3,Electric,EV Sedan,8,a6f2k7f2e2G6R5X4O

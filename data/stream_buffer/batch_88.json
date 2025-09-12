@@ -1,0 +1,122 @@
+[
+  {
+    "record_id": "206c00ea-6413-48c5-a3ef-c9d956af352c",
+    "trip_id": "014ea98a-16da-4beb-b50f-731e3dad0555",
+    "timestamp": "2025-08-28 13:14:26",
+    "speed_kmh": 55.29,
+    "acceleration_ms2": -0.61,
+    "braking_intensity": 0.2,
+    "cornering_gforce": 0.34,
+    "gps_lat": 32.71602077097787,
+    "gps_lon": -117.15960763164824,
+    "sampling_rate": 5
+  },
+  {
+    "record_id": "15aa2f06-966b-4ee8-94ea-f0f7399ae712",
+    "trip_id": "014ea98a-16da-4beb-b50f-731e3dad0555",
+    "timestamp": "2025-08-28 13:14:31",
+    "speed_kmh": 55.46,
+    "acceleration_ms2": 2.02,
+    "braking_intensity": 0.0,
+    "cornering_gforce": 0.14,
+    "gps_lat": 32.71600930622032,
+    "gps_lon": -117.1594343863497,
+    "sampling_rate": 5
+  },
+  {
+    "record_id": "f2cf55d7-d188-4b5b-b004-2f2f5c7692d0",
+    "trip_id": "014ea98a-16da-4beb-b50f-731e3dad0555",
+    "timestamp": "2025-08-28 13:14:36",
+    "speed_kmh": 51.29,
+    "acceleration_ms2": 3.07,
+    "braking_intensity": 0.0,
+    "cornering_gforce": 0.25,
+    "gps_lat": 32.71602883525555,
+    "gps_lon": -117.15939737480944,
+    "sampling_rate": 5
+  },
+  {
+    "record_id": "ccacb0bb-e4e1-40cd-adae-782968655677",
+    "trip_id": "014ea98a-16da-4beb-b50f-731e3dad0555",
+    "timestamp": "2025-08-28 13:14:41",
+    "speed_kmh": 52.68,
+    "acceleration_ms2": -0.96,
+    "braking_intensity": 0.32,
+    "cornering_gforce": 0.3,
+    "gps_lat": 32.71615160238627,
+    "gps_lon": -117.15931405838832,
+    "sampling_rate": 5
+  },
+  {
+    "record_id": "e1353ff2-4417-465b-a24d-cbaf6c9074c3",
+    "trip_id": "014ea98a-16da-4beb-b50f-731e3dad0555",
+    "timestamp": "2025-08-28 13:14:46",
+    "speed_kmh": 38.77,
+    "acceleration_ms2": -2.91,
+    "braking_intensity": 0.97,
+    "cornering_gforce": 0.12,
+    "gps_lat": 32.71616938278252,
+    "gps_lon": -117.15936740486374,
+    "sampling_rate": 5
+  },
+  {
+    "record_id": "db628c4c-3551-4f47-87d3-1a3b61e1dbcf",
+    "trip_id": "014ea98a-16da-4beb-b50f-731e3dad0555",
+    "timestamp": "2025-08-28 13:14:51",
+    "speed_kmh": 55.88,
+    "acceleration_ms2": 2.31,
+    "braking_intensity": 0.0,
+    "cornering_gforce": 0.15,
+    "gps_lat": 32.71606151968281,
+    "gps_lon": -117.15942844881926,
+    "sampling_rate": 5
+  },
+  {
+    "record_id": "1e241170-1e9f-4cd7-9ca5-286820e65c2d",
+    "trip_id": "014ea98a-16da-4beb-b50f-731e3dad0555",
+    "timestamp": "2025-08-28 13:14:56",
+    "speed_kmh": 50.97,
+    "acceleration_ms2": -1.5,
+    "braking_intensity": 0.5,
+    "cornering_gforce": 0.02,
+    "gps_lat": 32.71600461710039,
+    "gps_lon": -117.15953485170526,
+    "sampling_rate": 5
+  },
+  {
+    "record_id": "f73ed4de-a0bd-4bd5-b10f-45818100ff80",
+    "trip_id": "014ea98a-16da-4beb-b50f-731e3dad0555",
+    "timestamp": "2025-08-28 13:15:01",
+    "speed_kmh": 81.89,
+    "acceleration_ms2": 0.72,
+    "braking_intensity": 0.0,
+    "cornering_gforce": 0.01,
+    "gps_lat": 32.71613441993169,
+    "gps_lon": -117.1596284128467,
+    "sampling_rate": 5
+  },
+  {
+    "record_id": "22af7ea1-1d82-493c-a1b1-f30385ce6cee",
+    "trip_id": "014ea98a-16da-4beb-b50f-731e3dad0555",
+    "timestamp": "2025-08-28 13:15:06",
+    "speed_kmh": 45.58,
+    "acceleration_ms2": 1.14,
+    "braking_intensity": 0.0,
+    "cornering_gforce": 0.24,
+    "gps_lat": 32.71616365627455,
+    "gps_lon": -117.15930566403428,
+    "sampling_rate": 5
+  },
+  {
+    "record_id": "726c0144-8d21-4da3-8231-f805e72172dd",
+    "trip_id": "014ea98a-16da-4beb-b50f-731e3dad0555",
+    "timestamp": "2025-08-28 13:15:11",
+    "speed_kmh": 58.51,
+    "acceleration_ms2": 2.88,
+    "braking_intensity": 0.0,
+    "cornering_gforce": 0.18,
+    "gps_lat": 32.716268957316935,
+    "gps_lon": -117.15928405515098,
+    "sampling_rate": 5
+  }
+]
