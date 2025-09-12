@@ -303,3 +303,26 @@ telematics_insurance/
 3. Commit your changes
 4. Push to the branch
 5. Open a Pull Request
+
+![](https://github.com/Arbaz8888/telematics_insurance/blob/main/docs/Dashboard%20Tabs/Screenshot%202025-09-12%20at%203.29.49%E2%80%AFAM.png)
+![](https://github.com/Arbaz8888/telematics_insurance/blob/main/docs/Dashboard%20Tabs/Screenshot%202025-09-12%20at%203.30.09%E2%80%AFAM.png)
+![](https://github.com/Arbaz8888/telematics_insurance/blob/main/docs/Dashboard%20Tabs/Screenshot%202025-09-12%20at%203.30.19%E2%80%AFAM.png)
+![](https://github.com/Arbaz8888/telematics_insurance/blob/main/docs/Dashboard%20Tabs/Screenshot%202025-09-12%20at%203.30.38%E2%80%AFAM.png)
+![](https://github.com/Arbaz8888/telematics_insurance/blob/main/docs/Dashboard%20Tabs/Screenshot%202025-09-12%20at%203.31.01%E2%80%AFAM.png)
+![](https://github.com/Arbaz8888/telematics_insurance/blob/main/docs/Dashboard%20Tabs/Screenshot%202025-09-12%20at%203.31.16%E2%80%AFAM.png)
+![](https://github.com/Arbaz8888/telematics_insurance/blob/main/docs/Dashboard%20Tabs/Screenshot%202025-09-12%20at%203.31.36%E2%80%AFAM.png)
+![](https://github.com/Arbaz8888/telematics_insurance/blob/main/docs/Dashboard%20Tabs/Screenshot%202025-09-12%20at%203.31.48%E2%80%AFAM.png)
+![](https://github.com/Arbaz8888/telematics_insurance/blob/main/docs/Dashboard%20Tabs/Screenshot%202025-09-12%20at%203.32.01%E2%80%AFAM.png)
+![](https://github.com/Arbaz8888/telematics_insurance/blob/main/docs/Dashboard%20Tabs/Screenshot%202025-09-12%20at%203.32.13%E2%80%AFAM.png)
+![](https://github.com/Arbaz8888/telematics_insurance/blob/main/docs/Dashboard%20Tabs/Screenshot%202025-09-12%20at%203.32.24%E2%80%AFAM.png)
+![](https://github.com/Arbaz8888/telematics_insurance/blob/main/docs/Dashboard%20Tabs/Screenshot%202025-09-12%20at%203.32.43%E2%80%AFAM.png)
+![](https://github.com/Arbaz8888/telematics_insurance/blob/main/docs/Dashboard%20Tabs/Screenshot%202025-09-12%20at%203.32.53%E2%80%AFAM.png)
+![](https://github.com/Arbaz8888/telematics_insurance/blob/main/docs/Dashboard%20Tabs/Screenshot%202025-09-12%20at%203.33.12%E2%80%AFAM.png)
+![](https://github.com/Arbaz8888/telematics_insurance/blob/main/docs/Dashboard%20Tabs/Screenshot%202025-09-12%20at%203.33.27%E2%80%AFAM.png)
+![](https://github.com/Arbaz8888/telematics_insurance/blob/main/docs/Dashboard%20Tabs/Screenshot%202025-09-12%20at%203.33.36%E2%80%AFAM.png)
+![](https://github.com/Arbaz8888/telematics_insurance/blob/main/docs/Dashboard%20Tabs/Screenshot%202025-09-12%20at%203.33.50%E2%80%AFAM.png)
+![](https://github.com/Arbaz8888/telematics_insurance/blob/main/docs/Dashboard%20Tabs/Screenshot%202025-09-12%20at%203.34.09%E2%80%AFAM.png)
+![](https://github.com/Arbaz8888/telematics_insurance/blob/main/docs/Dashboard%20Tabs/Screenshot%202025-09-12%20at%203.34.29%E2%80%AFAM.png)
+![](https://github.com/Arbaz8888/telematics_insurance/blob/main/docs/Dashboard%20Tabs/Screenshot%202025-09-12%20at%203.34.41%E2%80%AFAM.png)
+![](https://github.com/Arbaz8888/telematics_insurance/blob/main/docs/Dashboard%20Tabs/Screenshot%202025-09-12%20at%203.35.02%E2%80%AFAM.png)
+![](https://github.com/Arbaz8888/telematics_insurance/blob/main/docs/Dashboard%20Tabs/Screenshot%202025-09-12%20at%203.35.35%E2%80%AFAM.png)
