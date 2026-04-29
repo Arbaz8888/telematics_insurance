@@ -26,7 +26,7 @@ This POC integrates **telematics data** (speed, braking, distractions, road cont
 
 ## Architecture
 
-The solution is designed with modular components that align with **Insurity's values of configurability, adaptability, and customer value**.
+The solution is designed with modular components that align with **configurability, adaptability, and customer value**.
 
 ```mermaid
 flowchart TD
