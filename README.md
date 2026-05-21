@@ -1,6 +1,6 @@
 # Telematics Insurance Platform
 
-A Proof-of-Concept (POC) project that demonstrates how **real-time telematics data** and **advanced AI models** can be integrated into insurance pricing models.  
+It demonstrates how **real-time telematics data** and **advanced AI models** can be integrated into insurance pricing models.  
 This project leverages **machine learning, deep learning (LSTM/GRU/CNN/Transformer), contextual risk modeling, dynamic pricing, encryption-based security, and gamification** to create a fair, customer-centric, and cloud-ready auto insurance solution.
 
 ---
